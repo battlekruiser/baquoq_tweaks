@@ -1,0 +1,28 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "minecraft:lava_bucket",
+    "count": 1
+  },
+  "mana": 50000,
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "botania:lens_fire"
+    },
+    {
+      "item": "minecraft:blast_furnace"
+    },
+    {
+      "item": "create:blaze_burner"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ]
+}

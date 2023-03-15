@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:charcoal"
+  },
+  "output": {
+    "item": "minecraft:coal"
+  },
+  "mana": 2100,
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  }
+}

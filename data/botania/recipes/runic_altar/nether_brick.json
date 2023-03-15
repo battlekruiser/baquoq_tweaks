@@ -1,0 +1,16 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "minecraft:nether_brick",
+    "count": 2
+  },
+  "mana": 1000,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    },
+    {
+      "item": "botania:lens_mine"
+    }
+  ]
+}
