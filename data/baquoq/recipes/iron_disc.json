@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 9
+  }
+}
